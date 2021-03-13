@@ -18,12 +18,13 @@ In very rare cases, I may ask for clarifications or start a general discussion o
 ##### These have been proposed many times already, and I won't be adding them.
 
 - Mechanics that increase game speed (fast-forward)
-- Teleporters
+- Teleporters of any kind
 - Underground map layers
 - Trains, or any transportation system that uses something analogous to rails
 - Item-liquid junctions
 - Controller support
-- Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills
+- Turrets on top of cores, or similar "merged behavior" blocks like turrets with drills.
 - Built-in cloud sync
 - Additional configuration of blocks, such as I/O side configuration, which has been suggested a million times
 - Removing metaglass from the water extractor recipe
+- Multiplayer play without port forwarding
